@@ -1,0 +1,7 @@
+name: FTSAnimalPlague
+version: 1.0
+main: de.jonarne.ftsanimalplague.main.Main
+
+commands:
+   animal:
+      description: FTSAnimalPlague Help.
